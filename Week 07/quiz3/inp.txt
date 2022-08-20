@@ -1,0 +1,10 @@
+[STATIONS]
+S1=Phu Tho
+S2=Ha Noi
+S3=Hai Phong
+S4=Nam Dinh
+S5=Quang Ninh
+[LINES]
+M1=S1 S3 S4
+M2=S2 S4 S5
+M3=S3 S5

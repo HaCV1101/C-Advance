@@ -1,0 +1,2 @@
+Rewrite the functions in the previous lab in order to
+compress files using the Huffman code.
